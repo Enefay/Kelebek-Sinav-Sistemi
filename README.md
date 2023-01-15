@@ -14,6 +14,7 @@ Arama butonunda ise geçerli bir numara girilmediğinde hata döndürüyor. Eğe
 Ekran Görüntüleri
 
 ![ogrencitablosu](https://user-images.githubusercontent.com/102833949/212531528-182b787f-19de-45ca-977b-1c0c0e13e424.png)
+
 Sisteme yüklenen dosyada bir sorun yok ise öğrenciler veritabanına kaydediliyor. Eğer o öğrenci daha önce veritabanında yer alıyor ise aynı öğrenci eklenmiyor.
 
 
@@ -24,6 +25,18 @@ Sisteme yüklenen dosyada bir sorun yok ise öğrenciler veritabanına kaydedili
 ![dosyalar](https://user-images.githubusercontent.com/102833949/212531632-d7956cb4-c3c0-4a42-a83e-c6abf75f4911.png)
 Veritabanına kaydedildikten sonr oluşan excel dosyaları
 
-Kontrol__________
+
+![excelderay](https://user-images.githubusercontent.com/102833949/212531698-4d2a0606-4c46-4a4c-af12-a36cb44e4958.png)
+
+
+
+Öğrenci Arama
+
+![resdmlrdosya](https://user-images.githubusercontent.com/102833949/212531724-6b219aa1-f521-475e-b0e9-18ae1d65757f.png)
+
+Öğrenci no ile arama başarılı ise o öğrencinin giriş kartı "Resimler" Klasörüne kaydediliyor.
+
+![123456](https://user-images.githubusercontent.com/102833949/212531764-57103078-deb2-42ec-b534-478cc664c78f.jpg)
+
 
 
